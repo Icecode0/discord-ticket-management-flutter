@@ -3,6 +3,8 @@
 A **Flutter-powered admin dashboard** designed to integrate with a **Flask API** and a **Discord bot** for ticket management.  
 This app provides server staff with a centralized interface to track, update, and manage tickets without needing to stay inside Discord.  
 
+![Dashboard](assets/Dashboard.webp)
+
 ---
 
 ## Features
@@ -33,3 +35,6 @@ This app provides server staff with a centralized interface to track, update, an
 - **Backend API:** Flask (Python)  
 - **Bot Integration:** Discord.py
 - **Database:** MySQL or SQLite (via Flask API)  
+
+![Ticket Popup 1](assets/InGameReport.webp)
+![Ticket Popup 2](assets/DiscordReport.webp)
