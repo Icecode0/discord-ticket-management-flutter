@@ -53,12 +53,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB0ZlMjc1SGsiWLaUDpH-bXrHuZIMlezo8',
-    appId: '1:452126003615:web:2eeda6514f6847f863adaa',
-    messagingSenderId: '452126003615',
-    projectId: 'icebot-b7ca2',
-    authDomain: 'icebot-b7ca2.firebaseapp.com',
-    storageBucket: 'icebot-b7ca2.appspot.com',
-    measurementId: 'G-ZZ05J0QDYY',
+    apiKey: 'OMITTED',
+    appId: 'OMITTED',
+    messagingSenderId: 'OMITTED',
+    projectId: 'OMITTED',
+    authDomain: 'OMITTED',
+    storageBucket: 'OMITTED',
+    measurementId: 'OMITTED',
   );
 }
